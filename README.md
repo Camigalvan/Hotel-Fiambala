@@ -180,8 +180,6 @@ A: Asegúrate de que el archivo `js/script.js` esté cargado correctamente.
 **Q: Las imágenes no cargan**
 A: Verifica la ruta relativa de las imágenes en los HTML.
 
-**Q: El formulario no funciona**
-A: El formulario actual valida datos en el cliente. Para guardar datos, necesitas un backend.
 
 **Q: El mapa no se ve**
 A: Reemplaza el iframe con tu ubicación real de Google Maps.
@@ -189,12 +187,6 @@ A: Reemplaza el iframe con tu ubicación real de Google Maps.
 ## 📝 Licencia
 
 Este código es de uso libre para Adobe Hotel Fiambalá. Siéntete libre de modificarlo según tus necesidades.
-
-## 📧 Contacto para Soporte
-
-Para cambios técnicos o mejoras, contacta:
-- 📧 Email: info@adobehotelfiambala.com
-- 💬 WhatsApp: +54 (3835) 12-3456
 
 ---
 
