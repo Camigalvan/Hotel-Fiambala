@@ -31,7 +31,7 @@
 - ✅ **images/** - Carpeta para imágenes
 - ✅ **assets/** - Carpeta para recursos adicionales
 
-## 🎨 Características Implementadas
+##  Características Implementadas
 
 ### Diseño Visual
 ✅ Paleta cálida (marrones, beige, terracota, arena)
@@ -71,7 +71,7 @@
 ✅ Sin servicios externos obligatorios
 ✅ SEO optimizado
 
-## 🚀 Cómo Comenzar
+##  Cómo Comenzar
 
 ### 1. Verificación Rápida
 ```bash
@@ -97,7 +97,7 @@ cd "Hotel fiambala"
 # Sube via FTP a cualquier hosting
 ```
 
-## 📊 Estadísticas del Proyecto
+##  Estadísticas del Proyecto
 
 | Elemento | Cantidad |
 |----------|----------|
@@ -118,32 +118,6 @@ cd "Hotel fiambala"
 3. ⚠️ Actualizar Google Maps
 4. ⚠️ Vincular redes sociales reales
 
-### Corto Plazo (Recomendado)
-5. 📸 Agregar imágenes reales del hotel
-6. 🎨 Ajustar colores al branding
-7. 💻 Publicar en un dominio
-8. 🔍 Configurar Google Business
-
-### Medio Plazo (Mejora)
-9. 💾 Agregar backend para procesar reservas
-10. 📱 Crear app móvil
-11. 📊 Integrar analytics
-12. 📧 Configurar email automáticos
-
-## 🔒 Checklist de Seguridad
-
-✅ Sin datos sensibles expuestos
-✅ Validación básica de formularios
-✅ Enlaces abiertos en nueva pestaña
-✅ Sin scripts externos peligrosos
-✅ HTTPS recomendado al publicar
-
-## 📞 Soporte y Ayuda
-
-### Archivos Útiles
-- **README.md** - Cómo usar el sitio
-- **PERSONALIZACION.md** - Guía de cambios
-- **config.json** - Datos centralizados
 
 ### Recursos Externos
 - [MDN Web Docs](https://developer.mozilla.org) - Documentación HTML/CSS/JS
@@ -169,7 +143,7 @@ Has recibido un **sitio web profesional, moderno y completo** para Adobe Hotel F
 
 ---
 
-## 📝 Últimos Detalles
+##  Últimos Detalles
 
 ### Estructura de Carpetas Final
 ```
