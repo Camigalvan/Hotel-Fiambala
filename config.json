@@ -1,0 +1,181 @@
+{
+  "hotel": {
+    "nombre": "Adobe Hotel Fiambalá",
+    "slogan": "Descansá entre montañas, adobe y tranquilidad",
+    "descripcion": "Adobe Hotel Fiambalá nace para brindar descanso, tranquilidad y una experiencia cálida en el corazón de Catamarca.",
+    "ubicacion": "Ruta Nacional 9, Fiambalá, Catamarca, Argentina",
+    "coordenadas": {
+      "latitud": -27.4667,
+      "longitud": -66.1667
+    }
+  },
+  "contacto": {
+    "telefono": "+54 (3835) 23-4567",
+    "telefonoAlternativo": "+54 (3835) 12-3456",
+    "whatsapp": "+5493835123456",
+    "email": "info@adobehotelfiambala.com",
+    "emailAlternativo": "reservas@adobehotelfiambala.com"
+  },
+  "redes_sociales": {
+    "instagram": "https://instagram.com/adobehotelfiambala",
+    "facebook": "https://facebook.com/adobehotelfiambala",
+    "whatsapp": "https://wa.me/5493835123456",
+    "email": "info@adobehotelfiambala.com"
+  },
+  "horarios": {
+    "recepcion": "24 horas",
+    "checkin_desde": "14:00",
+    "checkin_hasta": "21:00",
+    "checkout_desde": "08:00",
+    "checkout_hasta": "10:00"
+  },
+  "habitaciones": [
+    {
+      "id": 1,
+      "nombre": "Habitación Standard",
+      "descripcion": "Habitación acogedora con vistas a las montañas. Perfecta para descanso y relajación.",
+      "precio": 3500,
+      "moneda": "ARS",
+      "capacidad": 2,
+      "servicios": [
+        "Cama Queen Size",
+        "Baño privado",
+        "Aire acondicionado",
+        "WiFi gratis",
+        "Desayuno incluido"
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Habitación Doble",
+      "descripcion": "Dos camas separadas, ideal para grupos o familias. Espacio amplio y luminoso.",
+      "precio": 4500,
+      "moneda": "ARS",
+      "capacidad": 4,
+      "servicios": [
+        "2 Camas Queen Size",
+        "Baño privado con ducha",
+        "Aire acondicionado",
+        "WiFi Premium",
+        "Desayuno buffet"
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Suite Adobe",
+      "descripcion": "Nuestra suite de lujo con sala de estar y vistas panorámicas. Máximo confort y privacidad.",
+      "precio": 6500,
+      "moneda": "ARS",
+      "capacidad": 2,
+      "servicios": [
+        "Cama King Size",
+        "Sala de estar privada",
+        "Baño con bañera",
+        "WiFi de alta velocidad",
+        "Desayuno en suite"
+      ]
+    }
+  ],
+  "promociones": [
+    {
+      "titulo": "2 Noches - 20% OFF",
+      "descripcion": "Descuento especial pagando en efectivo o transferencia. Vive una experiencia inolvidable en la naturaleza.",
+      "descuento": 20,
+      "icono": "🎁"
+    },
+    {
+      "titulo": "Estadías Largas",
+      "descripcion": "Tarifas especiales para estadías de 7 noches o más. Disfruta de la tranquilidad al mejor precio.",
+      "descuento": 15,
+      "icono": "📅"
+    },
+    {
+      "titulo": "Desayuno Incluido",
+      "descripcion": "Desayuno casero y abundante en todas nuestras habitaciones. Comienza tu día con energía.",
+      "descuento": 0,
+      "icono": "☕"
+    }
+  ],
+  "servicios": {
+    "incluidos": [
+      "Limpieza diaria",
+      "Desayuno casero",
+      "WiFi libre en todo el hotel",
+      "Aire acondicionado",
+      "Estacionamiento gratuito",
+      "Agua caliente 24 horas",
+      "Toallas y amenities"
+    ],
+    "adicionales": [
+      "Información turística local",
+      "Arreglo de excursiones",
+      "Traslado desde terminal",
+      "Servicio de bar",
+      "Área de descanso común",
+      "Punto de carga de vehículos eléctricos"
+    ]
+  },
+  "galeria": [
+    {
+      "titulo": "Vistas Desérticas",
+      "descripcion": "Paisajes del desierto catamarqueño",
+      "emoji": "🏜️"
+    },
+    {
+      "titulo": "Montañas Majestuosas",
+      "descripcion": "Cordillera de los Andes",
+      "emoji": "🏔️"
+    },
+    {
+      "titulo": "Cactus del Norte",
+      "descripcion": "Flora típica de la región",
+      "emoji": "🌵"
+    },
+    {
+      "titulo": "Arquitectura Adobe",
+      "descripcion": "Construcción tradicional",
+      "emoji": "🏰"
+    },
+    {
+      "titulo": "Atardeceres",
+      "descripcion": "Puestas de sol espectaculares",
+      "emoji": "🌅"
+    },
+    {
+      "titulo": "Vistas Panorámicas",
+      "descripcion": "Desde nuestras terrazas",
+      "emoji": "🌄"
+    }
+  ],
+  "colores": {
+    "primary_brown": "#8B6F47",
+    "secondary_brown": "#A0826D",
+    "warm_beige": "#F5E6D3",
+    "light_cream": "#FAF6F1",
+    "terracotta": "#C05E3C",
+    "sand": "#D4AF8D",
+    "earth_tone": "#6B5A42",
+    "accent_warm": "#D9A574",
+    "text_dark": "#2C1810",
+    "text_light": "#F5E6D3"
+  },
+  "distancias": {
+    "desde_capital_catamarca": "280 km",
+    "desde_salta": "500 km",
+    "desde_santiago_del_estero": "600 km",
+    "tiempo_capital_catamarca": "4-5 horas"
+  },
+  "politicas": {
+    "cancelacion_gratuita_dias": 7,
+    "cancelacion_parcial_dias": 3,
+    "cancelacion_parcial_porcentaje": 50,
+    "mascotas_permitidas": true,
+    "tarifa_mascota": 500,
+    "forma_pago": [
+      "Efectivo",
+      "Transferencia bancaria",
+      "Tarjeta de crédito",
+      "Tarjeta de débito"
+    ]
+  }
+}
